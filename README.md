@@ -52,6 +52,6 @@ O algoritmo utilizado pelo software pode ser descrito de forma simplicada em 4 e
 Alguns 
  
 - Definição de uma região de interesse (ROI) para otimizar o processamento;
-- Reconhecimento das cores dos pontos de deformação utilizando modelo de cor HSV
-- Limiarização para segmentar as fitas verde e rosa coladas no EVA;
+- Reconhecimento das cores dos pontos de deformação utilizando modelo de cor HSV;
+- Limiarização para segmentar as fitas verde e rosa coladas no EVA.
  
