@@ -10,7 +10,7 @@ O vídeo a seguir resume algumas informações do projeto e como utilizar o soft
 
 A figura a seguir ilustra o equipamento utilizado para medir a deformação do material:
 
-![Equipamento](./docs/equipamento_utilizado.png)
+![Equipamento](./docs/equipamento.png)
 
 ## Resultados
  
