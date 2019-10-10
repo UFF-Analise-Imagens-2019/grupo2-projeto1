@@ -40,7 +40,7 @@ Coeficientes de deformação (distancia atual - distancia incial / distancia ini
 2) Coeficiente de deformação na posição 2: 0,032
 3) Coeficiente de deformação na posição 3: 0,037
 
-## Técnicas Utilizadas
+## Informações sobre o Programa
 
 O algoritmo utilizado pelo software pode ser descrito de forma simplicada em 4 etapas:
 
@@ -49,7 +49,7 @@ O algoritmo utilizado pelo software pode ser descrito de forma simplicada em 4 e
 3. Calcular a distância euclidiana entre os dois centróides para obter a distância inicial.
 4. A medida que a fita é deformada calcular a nova distância entre os dois centróides para identificar a variação.
 
-Alguns 
+Algumas técnicas de análise de imagem foram utilizadas:
  
 - Definição de uma região de interesse (ROI) para otimizar o processamento;
 - Reconhecimento das cores dos pontos de deformação utilizando modelo de cor HSV;
