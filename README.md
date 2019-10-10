@@ -16,7 +16,7 @@ A figura a seguir ilustra o equipamento utilizado para medir a deformação do m
  
 Após construir o conjunto composto da estrutura e do software de medição, foram executados dois tipos de teste, o primeiro foi baseado na medição da deformação a partir da captura em vídeo.
  
-O segundo teste se baseou em três fotos e em que cada uma delas a fita recebeu uma tensão em uma de suas extremidades, se deslocando respectivamente 10, 20 e 30 pixels em relação a posição inicial.
+O segundo teste se baseou em três fotos, e em cada uma delas o EVA recebeu uma tensão em uma de suas extremidades, se deslocando respectivamente 10, 20 e 30 pixels em relação a posição inicial.
 
 As três figuras a seguir representam, cada uma delas uma das fotos utilizadas para a medição no segundo teste.
 
